@@ -1,11 +1,11 @@
 # Seedling
-A WordPress starter theme based on the lovely Timber library and Bootstrap 4. (Forked from [Branch](https://github.com/JeyKeu/branch))
+A WordPress starter theme based on the lovely Timber library and Materialize. (Forked from (https://github.com/maxdmyers/seedling))
 
 
 Features
 ---
 - Timber Library support
-- Bootstrap 4 toolkit
+- Materialize
 - NPM package management 
 - Gulp build system
 - Browsersync for synchronised browser testing
@@ -24,7 +24,7 @@ Setup
 
    `cd` into `wp-content/themes`
 
-   `composer create-project maxdmyers/seedling your-theme-name`
+   `composer create-project svobi/seedling-materialize your-theme-name`
 
 - Change to the `your-theme-name` directory
 - Open `style.css` and modify theme name, description and author
